@@ -1,6 +1,5 @@
 # Inspiration Tab Mod
-
-Hey there! Welcome to the **Inspiration Tab** mod for RimWorld.
+**Inspiration Tab** mod for RimWorld.
 
 ## What's this?
 Ever wished you could just *give* your colonists an inspiration without waiting for the stars to align? Now you can! This mod adds a shiny new tab that lets you browse through all available inspirations and grant them to your colonists with a single click.
@@ -19,6 +18,4 @@ Whether you need a **Shoot Frenzy** to defend the colony or **Inspired Creativit
 4. Enjoy!
 
 ## Compatibility
-Should be compatible with everything! Safe to add to existing saves. Removing it mid-save *should* be fine, but always backup your save just in case!
-
-Happy RimWorlding!
+Should be compatible with everything.
