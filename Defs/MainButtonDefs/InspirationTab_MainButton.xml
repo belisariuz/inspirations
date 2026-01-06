@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Main Tab Definition for Inspiration Tab -->
+  <MainButtonDef>
+    <defName>InspirationTab</defName>
+    <label>Inspirations</label>
+    <description>Grant inspirations to your colonists.</description>
+    <tabWindowClass>InspirationTab.MainTabWindow_Inspirations</tabWindowClass>
+    <order>500</order>
+    <validWithoutMap>false</validWithoutMap>
+  </MainButtonDef>
+</Defs>
